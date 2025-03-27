@@ -1,5 +1,5 @@
 # java-tomcat-maven-example
-sample
+sample test 3
 
 This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
 
